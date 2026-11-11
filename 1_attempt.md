@@ -1,13 +1,23 @@
- # Assignment 1 : The Headline Test
- # Claims
- 1. prices are higher in city 2 than in city 1
- 2. basic food items are becoming expensive and out of reach
- # Questions
- 1.is the average price higher only during the period covered by datasheet
- variables needed : city, price, items, dates
-2. how have the prices of staple A, oil B,pulse c and sweetner D has changed over time.
-variables needed :prices, dates, items 
-# Prediction
-shape = 96columns * 6rows
-distinct items = 4
-distinct dates = 12
+# Task 1: THINK
+
+# Problems Identified
+
+# Problem 1
+Problem found:duplicate row
+ decision: remove extra duplicate row
+Reason:it can affect the accuracy of data analysis
+
+# Problem 2
+Problem found:unusual high price
+decision:flag the value for investigation
+Reason:it may be an error but it should not be changed without evidence
+
+# Problem 3
+Problem found:the price column contains values sorted as text rather than numbers
+decision:convert price column to numeric data during cleaning
+Reason: numeric values are important to calc ulate average,compare prices and also for statistical analysis
+
+# problem 4
+problem found: missing price for pulce c in city 2
+decision : flag it for review
+reason : should not fill a missing value without reliable information

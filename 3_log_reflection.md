@@ -1,0 +1,1 @@
+I identified the data problems and chose to keep the missing price and flag unusually high prices instead of changing them. These decisions were better supported because I did not have enough evidence to replace the values. might have struggled with some cleaning codes and fixing errors alone.

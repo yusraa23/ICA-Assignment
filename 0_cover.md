@@ -1,5 +1,6 @@
-Assignment 1: The Headline Test
-Yusra Usman 
+#assignmenrt 12
+the dirty ledger
+yusra usman
 36095
-
-This assignment is about understanding food prices using a dataset. It showed prices of food items in two different cities. I used Python to look at the data and compare the predictions.
+in this assignment i have identified the problems in a messy dataset,plan cleaning descisions,test AI suggested codes and evaluate the results
+dataset used : teaching_prices_messy.csv
