@@ -1,6 +1,5 @@
-#assignmenrt 12
-the dirty ledger
-yusra usman
+assignment#3
+two Averages,one Argument
+yusra Usman
 36095
-in this assignment i have identified the problems in a messy dataset,plan cleaning descisions,test AI suggested codes and evaluate the results
-dataset used : teaching_prices_messy.csv
+In this assignment I have compared the mean and median prices of various food items and how the prices of various foodn items has changed over time.s
